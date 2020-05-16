@@ -1,0 +1,312 @@
+body{
+    background-image:url( Ground_Floor.jpg);
+    background: no-repeat;
+}
+    .class1left{
+        background-color: orangered;
+        position: relative;
+        left: 210px;
+        top: 0;
+        height:96px;
+        border: solid 5px#000000 ;
+        width: 113px;
+        text-align: center;
+        font-weight: bold;
+        color: #ffffff;
+        font-size: 22px;
+        display: flex;
+        line-height: 95px;
+         display: block;
+        
+    }
+    .class1left:hover{
+        opacity: .5;
+    }
+.class2left{ 
+     background-color: orangered;
+        position: relative;
+        left: 210px;
+        top: 0;
+        height:96px;
+        border: solid 5px#000000 ;
+        width: 113px;
+        text-align: center;
+        font-weight: bold;
+        color: #ffffff;
+        font-size: 22px;
+        display: flex;
+        line-height: 95px;
+         display: block;
+        
+         
+}.class2left:hover{
+    opacity: .5;
+}
+.class3left{
+    background-color: orangered;
+        position: relative;
+        left: 210px;
+        top: 0;
+        height:90px;
+        border: solid 5px#000000 ;
+        width: 113px;
+        text-align: center;
+        font-weight: bold;
+        color: #ffffff;
+        font-size: 22px;
+        display: flex;
+        line-height: 95px;
+         display: block;
+
+}.class3left:hover{
+    opacity: .5;
+}
+.stair1{
+    background-color: red;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:50px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 12px;
+    display: flex;
+    line-height: 15px;
+     display: block;
+} 
+.stair1:hover{
+    opacity: .5;
+}
+.openspace1{
+    background-color: greenyellow;
+    position: relative;
+    left: 210px;
+   top: 140px;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+    
+}.openspace1:hover{
+    opacity: .5;
+}
+.class1right{
+    background-color: orangered;
+    position: absolute;
+    left: 433px;
+    top: 0;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+    
+
+}.class1right:hover{
+    opacity: .5;
+}
+.class2right{
+    background-color: orangered;
+    position:absolute;
+    left: 433px;
+    top: 108px;
+    height:103px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}.class2right:hover{
+    opacity: .5;
+}
+.washroom{
+    background-color:burlywood;
+    position:absolute;
+    left: 433px;
+    top: 216px;
+    height:80px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}.washroom:hover{
+    opacity: .5;
+}
+.openspace2{
+    background-color:greenyellow;
+    position:absolute;
+    left: 433px;
+    top: 306px;
+    height:205px;
+    border: solid 5px#000000 ;
+    width: 180px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}.openspace2:hover{
+    opacity: .5;
+}
+.principalroom{
+    background-color:rgb(58, 166, 233);
+    position:absolute;
+    left: 623px;
+    top: 380px;
+    height:130px;
+    border: solid 5px#000000 ;
+    width: 106px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+
+
+}.principalroom:hover{
+    opacity: .5;
+}
+.hod{
+    background-color:rgb(58, 166, 233);
+    position:absolute;
+    left: 739px;
+    top: 380px;
+    height:130px;
+    border: solid 5px #000000 ;
+    width: 120px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}.hod:hover{
+    opacity: .5;
+}
+.stairs2{
+  background-color: red;
+    position: absolute;
+    left: 503px;
+    top:580px ;
+    height:105px;
+    border: solid 5px#000000 ;
+    width: 55px;
+    
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 15px;
+    display: flex;
+    line-height: 25px;
+     display: block;
+
+}.stairs2:hover{
+    opacity: .5;
+}
+.readingroom{
+    background-color: #3891c5;
+    position: absolute;
+    left: 563px;
+    top:580px ;
+    height:105px;
+    border: solid 5px#000000 ;
+    width: 145px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.readingroom:hover{
+    opacity: .5;
+}
+.library{
+    background-color: #3891c5;
+    position: absolute;
+    left: 709px;
+    top:580px ;
+    height:105px;
+    border: solid 5px#000000 ;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.library:hover{
+    opacity: .5;
+}
+.link{
+   
+    font-weight: bold;
+    color: #000000;
+    margin:5%  5% 5%;
+    display: inline-block; 
+    text-align: center;
+    text-decoration: none;
+}
+.notice{
+    width:50%;
+    margin: 20px auto;
+    box-shadow: 1px 1px 10px 2px #333; 
+    float: right;
+    border-radius: 5px;
+    height: 330px;
+}
+.header{
+    text-align: center;
+    background-color: rgb(66, 63, 63);
+    color: aliceblue;
+    padding: 15px 0px;
+}
+#container{
+    width: 300px;
+    border: 2px solid black;
+    float: right;
+    background-color: azure;
+    height: 50px;
+    position: absolute;
+    left: 75%;
+    top: 370px;
+    font-size:20px ;
+    margin: 2px;
+    text-align: center;
+
+}
+#time{
+    font-weight: bold;
+}

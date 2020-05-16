@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GROUND FLOOR</title>
+        <link rel="stylesheet" href="groundfloor.css">
+    </head>
+    <body>
+        <div class="notice"><h1 class="header">Display Board</h1></div>
+        <div id="container"><span id="time"></span></div>
+    <div class="class1left">Classroom</div>
+    <div class="class2left">Classroom</div>
+    <div class="class3left">Classroom</div>
+    <div class="stair1">Stairs
+        <nav>
+            <a class="link" href="first_floor.html">first floor</a>
+        </nav>
+    </div>
+    <div class="openspace1">Open Space</div>
+    <div class="class1right">Classroom</div>
+    <div class="class2right">Classroom</div>
+    <div class="washroom">Washroom</div>
+    <div class="openspace2">Open Space</div>
+    <div class="principalroom">Princial's Room</div>
+    <div class="hod">HoD room</div>
+    <div class="stairs2">Stairs
+        <nav>
+            <a class="link" href="first_floor.html">first floor</a>
+        </nav>
+    </div>
+    
+    <div class="readingroom">Reading Room</div>
+    <div class="library">Library</div>
+
+</div>
+<script>
+    let now= new Date();
+    console.log(now)
+    setInterval(upDate, 1000);
+    function upDate() {
+        time.innerHTML= new Date();
+    }
+</script>
+
+    </body>
+</html>

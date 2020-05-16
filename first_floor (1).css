@@ -1,0 +1,304 @@
+body{
+    background-image:url( First_Floor.jpg);
+    background: no-repeat;
+}
+.class1left{
+    background-color: orangered;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:96px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}
+.class1left:hover{
+    opacity: .5;
+}
+.class2left{
+    background-color: orangered;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:96px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+}
+.class2left:hover{
+    opacity: .5;
+}
+.class3left{
+    background-color: orangered;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:90px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+}.class3left:hover{
+    opacity: .5;
+}
+.stair1{
+    background-color: red;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:50px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 15px;
+    display: flex;
+    line-height: 10px;
+     display: block;
+}.stair1:hover{
+    opacity: .5;
+}
+.washroom{
+    background-color: brown;
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:70px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.washroom:hover{
+    opacity: .5;
+}
+.staffroom{
+    background-color: rgb(54, 142, 230);
+    position: relative;
+    left: 210px;
+    top: 0;
+    height:160px;
+    border: solid 5px#000000 ;
+    width: 105px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.staffroom:hover{
+    opacity: .5;
+}
+.class1right{
+    background-color: orangered;
+    position: absolute;
+    left: 433px;
+    top: 0;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.class1right:hover{
+    opacity: .5;
+}
+.class2right{
+    background-color: orangered;
+    position:absolute;
+    left: 433px;
+    top: 108px;
+    height:103px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+}.class2right:hover{
+    opacity: .5;
+}
+.lab{
+    background-color: rgb(54, 142, 230);
+    position:absolute;
+    left: 433px;
+    top: 216px;
+    height:149px;
+    border: solid 5px#000000 ;
+    width: 113px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+}.lab:hover{
+    opacity: .5;
+}
+.openspace{
+   background-color:greenyellow;
+    position:absolute;
+    left: 433px;
+    top: 370px;
+    height:160px;
+    border: solid 5px#000000 ;
+    width: 180px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 95px;
+     display: block;
+
+}.openspace:hover{
+    opacity: .5;
+}
+.conferenceroom{
+    background-color:rgb(58, 166, 233);
+    position:absolute;
+    left: 623px;
+    top: 380px;
+    height:150px;
+    border: solid 5px#000000 ;
+    width: 239px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+
+}.conferenceroom:hover{
+    opacity: .5;
+}
+.stairs2{
+    background-color: red;
+    position: absolute;
+    left: 500px;
+    top:590px ;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 60px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 15px;
+    display: flex;
+    line-height:15px;
+     display: block;
+}
+.stairs2:hover{
+    opacity: .5;
+}
+.examsec{
+    background-color: #3891c5;
+    position: absolute;
+    left: 563px;
+    top:590px ;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 145px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}.examsec:hover{
+    opacity: .5;
+}
+
+.academic{
+    background-color: #3891c5;
+    position: absolute;
+    left: 709px;
+    top:590px ;
+    height:100px;
+    border: solid 5px#000000 ;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    line-height: 50px;
+     display: block;
+}
+.academic:hover{
+    opacity: .5;
+}
+.link{
+   
+    font-weight: bold;
+    color: #000000;
+    margin:5%  5% 5%;
+    display: inline-block; 
+    text-align: center;
+    text-decoration: none;
+ } 
+.notice{
+    width:50%;
+    margin: 20px auto;
+    box-shadow: 1px 1px 10px 2px #333; 
+    float: right;
+    border-radius: 5px;
+    height: 330px;
+}
+.header{
+    text-align: center;
+    background-color: rgb(66, 63, 63);
+    color: aliceblue;
+    padding: 15px 0px;
+}
+#container{
+    width: 300px;
+    border: 2px solid black;
+    float: right;
+    background-color: azure;
+    height: 50px;
+    position: absolute;
+    left: 75%;
+    top: 370px;
+    font-size:20px ;
+    margin: 2px;
+    text-align: center;
+
+}
+#time{
+    font-weight: bold;
+}
